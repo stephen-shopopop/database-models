@@ -46,7 +46,9 @@
     "database-models": "./bin/database-models"
   },
   "keywords": [
-    "standard"
+    "mysql",
+    "models",
+    "interfaces"
   ],
   "author": "tech-shopopop <tech@shopopop.com>",
   "license": "ISC",
