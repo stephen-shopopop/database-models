@@ -18,6 +18,7 @@ Generate database models interfaces for typescript
 
 ## Usage
 
+npm i https://github.com/stephen-shopopop/database-models
 
 ## Contributing
 
