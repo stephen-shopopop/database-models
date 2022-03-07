@@ -1,6 +1,7 @@
 // Copyright 2021-2022 Shopopop. All rights reserved. ISC license.
+
 import { Debug } from './deps'
-import inspector from './config'
+import inspector from './inspector'
 import { Column } from 'knex-schema-inspector/dist/types/column'
 
 // Debugger
