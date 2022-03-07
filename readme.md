@@ -14,7 +14,10 @@
 
 ## Description
 
-Generate database models interface for typescript
+Generate database models interfaces for typescript
+
+## Usage
+
 
 ## Contributing
 
