@@ -39,6 +39,9 @@
     "fix": "standard-version -- --release-as minor",
     "doc": "rimraf docs && npx typedoc src/index.ts"
   },
+  "bin": {
+    "database-models": "./bin/database-models"
+  },
   "keywords": [
     "standard"
   ],
